@@ -1,0 +1,8 @@
+{
+  "name": "TradeDesk IN",
+  "description": "Indian equities day-trading desk for NSE and BSE with ORB & daily scanner, entry timer, tick-snapped exit planner, Monte Carlo time-machine replay, Zerodha budget & risk gatekeeper, paper broker confirmation, IST/CAS alerts, corporate news, XBRL results analyst, and SEBI PIT/bulk-block insider tracker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

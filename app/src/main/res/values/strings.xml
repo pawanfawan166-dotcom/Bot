@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TradeDesk IN</string>
+    <string name="disclaimer_banner">Educational &amp; paper-trading desk using delayed/unofficial public feeds. Not investment advice.</string>
+    <string name="agent_status_bar_title">Live Agent Status</string>
+    <string name="agent_state_idle">Idle</string>
+    <string name="agent_state_processing">Processing</string>
+    <string name="agent_state_success">Success</string>
+    <string name="agent_state_failed">Failed</string>
+    <string name="timeline_title">11-Skill Execution Timeline</string>
+    <string name="timeline_subtitle">Sequential agent &amp; skill pipeline</string>
+    <string name="orb_top5_title">Live NSE/BSE ORB Top 5</string>
+    <string name="orb_top5_subtitle">Ranked by relative intraday volume</string>
+    <string name="heatmap_title">Market Volatility &amp; Volume Heatmap</string>
+    <string name="heatmap_subtitle">Color intensity maps price volatility &amp; relative volume</string>
+    <string name="orb_config_title">ORB Strategy &amp; Risk Gate Config</string>
+    <string name="broker_settings_title">Broker Settings &amp; Vault</string>
+    <string name="real_money_warning">REAL TRADING MODE ACTIVE — Orders execute on live markets with real capital.</string>
+    <string name="auto_mode_title">Automatic Trading Mode</string>
+    <string name="auto_real_warning">HIGH RISK: Auto Mode + Real Trading are BOTH ON. Approved agent signals will place REAL-MONEY orders automatically.</string>
+    <string name="emergency_stop_label">EMERGENCY STOP</string>
+</resources>
